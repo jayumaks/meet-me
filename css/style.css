@@ -192,8 +192,8 @@
     
     .my-services {
         background-color: var(--clr-dark);
-        background-image: url(../images/bg-light.jpg);
-        background-size: contain;
+        background-image: url(../images/clean-bg.png);
+        background-size: center;
         /* background-blend-mode: multiply; */
         color: var(--clr-light);
         text-align: center;
